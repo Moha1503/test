@@ -1,0 +1,19 @@
+button{
+background-color: aqua;
+font-size: 2em;
+font-weight: 100;
+border-radius: 20px;
+border: 1px solid black;
+}
+button:hover{
+    transform: scale(1.2);
+    transition: 2s ease;
+}
+#demo{
+    font-size: 2em;
+    color: red;
+}
+#demo:hover{
+    background-image: url("https://c.tenor.com/GwFP_tY-jmQAAAAM/hug-hugs-and-love.gif");
+    padding: 100px;
+}
